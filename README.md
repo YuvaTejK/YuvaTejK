@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there, I'm Kagita Yuva Tej Goud 👋
 
-<!--
-**YuvaTejK/YuvaTejK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Honours | KL University, Hyderabad
+📍 Hyderabad, India
+🔍 Actively seeking Data Analyst / Data Science internships
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+I'm a final year B.Tech student passionate about turning raw data into meaningful insights. I enjoy working on real-world datasets and building end-to-end data projects using Python and SQL.
+
+---
+
+## 🛠️ Skills & Tools
+
+**Languages:** Python · SQL · Excel
+**Libraries:** Pandas · NumPy · Matplotlib · Seaborn
+**Areas:** Machine Learning (basics) · Data Analysis · Data Visualization
+
+---
+
+## 📂 Projects
+
+### 🍔 Food Delivery Analysis
+Analyzed food delivery data to uncover trends in order patterns, customer behavior, and delivery performance using Python and Pandas.
+
+### 📩 SMS Spam Detection using XGBoost
+Built a machine learning model to classify SMS messages as spam or not spam using XGBoost. Applied text preprocessing, feature engineering, and model evaluation techniques.
+
+---
+
+## 📈 Currently Learning
+
+- Advanced SQL (Window Functions, CTEs)
+- Power BI / Tableau for dashboards
+- Deep diving into Machine Learning algorithms
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yuvatejkagita-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yuvatejkagita/)
+📧 Reach me via LinkedIn
+
