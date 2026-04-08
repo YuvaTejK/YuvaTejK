@@ -1,7 +1,7 @@
 # Hi there, I'm Kagita Yuva Tej Goud 👋
 
-🎓 B.Tech CSE Honours | KL University, Hyderabad
-📍 Hyderabad, India
+🎓 B.Tech CSE Honours | KL University, vijayawada
+📍vijayawada , India
 🔍 Actively seeking Data Analyst / Data Science internships
 
 ---
